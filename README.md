@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there I'm DinoDude 
 
-<!--
-**TheDinoDude/TheDinoDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Username History
+### My Current Usernames
+- `_dinodude_ ` 9  (DinoDude#2017)
+  - New Discord Acc made Fri, 05 Jul 2019
+- sonicdude87 (SonicDude#7177)
+  - Made Thu, 20 Jul 2017
 
-Here are some ideas to get you started:
+### My previous Usernames
+- Dire
+  - OG Discord Acc made Wed, 02 Nov 2016, Deleted Fri, 05 Jul 2019 (Due to being hacked)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Current Nicknames/IGN
+- DinoDude (Main) (2022 onwards)
+- SonicDude (Alt) (2017 onwards)
+- DinoMaster (As backup alt from 2023 onwards)
+
+### My previous Nicknames
+- pday2387 (My OG Nickname/IGN used up until 2016) 
+- DireDay20 (2016-2017)
+- DireDay (2017-2018)
+- Dire (2018-2022)
+
+## About Me
+- 🔭 I’m currently working on Unify
+- 💬 Ask me about ...m
+- 📫 How to reach me: _dinodude_ on Discord or @TheDinoDude on Telegram

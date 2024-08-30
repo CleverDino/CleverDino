@@ -25,6 +25,10 @@
 - DinoMaster (2024)
 
 ## About Me
-- 🔭 I’m currently working on DinoBull,DinoBlox & GoDino
+- 🔭 I’m currently working on 
+   - DinoBull (Fork of Pitbull)
+   - DinoBlox (Fork of uBlox)
+   - GoDino (Fork of Sputnik)
+
 - I know C# and I'm in the process of learning Sputnik
 - 📫 How to reach me: _dinodude_ on Discord or @TheDinoDude on Telegram
